@@ -1,4 +1,4 @@
-## A simple GitHun action which demonstrates templates
+## A simple GitHub action which demonstrates templates
 
 This repository contains the a GitHub action which uses a template. 
 
